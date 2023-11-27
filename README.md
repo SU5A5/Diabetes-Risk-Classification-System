@@ -1,4 +1,4 @@
-# diabetes_prediction
+# Diabetes_prediction
 ### INTERNSHIP project under Connecting Dream Foundation and Vodafone Idea Foundation's
 
 ## About the Project:
