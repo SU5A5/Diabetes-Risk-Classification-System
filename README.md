@@ -12,14 +12,15 @@ The dataset was split into training and test sets to evaluate the model's perfor
 
 ## Model Trained
 1. **Logistic Regression:**
-   - Applied Logistic Regression and achieved an accuracy of ~76%,also visualized model using ROC curve
+   - Applied Logistic Regression and achieved an accuracy of ~76%
+   - also visualized model using ROC curve
 2. **Random Forest:**
    - Utilized Random Forest for prediction, and the accuracy matched that of Logistic Regression.
    - visualized the model using graphiz lib
 3. **XGBoost:**
    - Applied XGBoost and obtained the same accuracy, demonstrating consistency across models.
   
-##future enhancement
+##  Future enhancement
 1.**Enhancing the models can be achieved by utilizing a more balanced dataset that includes representative samples from both classes.**
 2.**User Interface and Deployment**
 3.**Leveraging deep learning algorithms to enhance the interpretability of the relationship with the outcome.**
