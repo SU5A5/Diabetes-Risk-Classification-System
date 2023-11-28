@@ -1,5 +1,5 @@
 # Diabetes_prediction
-### INTERNSHIP project under Connecting Dream Foundation and Vodafone Idea Foundation's
+### INTERNSHIP project - Connecting Dream Foundation and Vodafone Idea Foundation
 
 ## About the Project:
 The project's problem statement revolves around the urgent need to develop a robust and accurate machine-learning model for the classification of patients based on their risk of developing diabetes. Diabetes, a chronic health condition, is on the rise globally, and early detection and intervention are paramount for effective management and prevention of complications. The goal is to classify patients into two groups: those at elevated risk of developing diabetes and those not at risk, thereby assisting healthcare professionals in targeted intervention strategies, and preventive measures, and ultimately improving patient outcomes in the realm of diabetes management.
