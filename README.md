@@ -1,12 +1,10 @@
 ### Connecting Dream Foundation and Vodafone Idea Foundation - INTERNSHIP project
 
 ## About the Project:
-The project's problem statement revolves around the urgent need to develop a robust and accurate machine-learning model for the classification of patients based on their risk of developing diabetes. Diabetes, a chronic health condition, is on the rise globally, and early detection and intervention are paramount for effective management and prevention of complications. The goal is to classify patients into two groups: those at elevated risk of developing diabetes and those not at risk, thereby assisting healthcare professionals in targeted intervention strategies, and preventive measures, and ultimately improving patient outcomes in the realm of diabetes management.
-
 **Project Description: Diabetes Risk Classification System**
 
 **Problem Statement:**
-The rising prevalence of diabetes poses a significant health challenge, necessitating efficient methods for early risk identification. Manual assessment of diagnostic parameters is time-consuming and error-prone.
+The project's problem statement revolves around the urgent need to develop a robust and accurate machine-learning model for the classification of patients based on their risk of developing diabetes. Diabetes, a chronic health condition, is on the rise globally, and early detection and intervention are paramount for effective management and prevention of complications. The goal is to classify patients into two groups: those at elevated risk of developing diabetes and those not at risk, thereby assisting healthcare professionals in targeted intervention strategies, and preventive measures, and ultimately improving patient outcomes in the realm of diabetes management.
 
 **Objective:**
 Develop an automated Diabetes Risk Classification System using machine learning to swiftly assess patients' likelihood of developing diabetes.
