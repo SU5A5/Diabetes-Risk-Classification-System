@@ -1,4 +1,3 @@
-# Diabetes_prediction
 ### Connecting Dream Foundation and Vodafone Idea Foundation - INTERNSHIP project
 
 ## About the Project:
